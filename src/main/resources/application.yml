@@ -1,0 +1,8 @@
+tokens:
+  nft:
+    crypto-strikers:
+      contractAddress: "0x11739d7bd793543a6e83bd7d8601fcbcde04e798"
+
+contracts:
+  infura-url: https://mainnet.infura.io/v3/
+  infura-project-id: INFURA_PROJECT_ID_HERE
